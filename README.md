@@ -1,5 +1,7 @@
 📈 Stock Price Prediction using Regression Models
 
+![Stock](https://pin.it/2CT3U0yBw)
+
 📌 Project Overview
 
 This project focuses on predicting the closing price of a stock using historical market data.
