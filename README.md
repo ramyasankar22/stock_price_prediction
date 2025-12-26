@@ -1,4 +1,5 @@
 📈 Stock Price Prediction using Regression Models
+
 📌 Project Overview
 
 This project focuses on predicting the closing price of a stock using historical market data.
