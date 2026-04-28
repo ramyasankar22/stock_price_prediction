@@ -98,6 +98,16 @@ Matplotlib
 
 Google Colab
 
-🚀 Conclusion
+📊 Results
 
-This project provides a comparative study of different regression techniques on stock market data and highlights the importance of feature correlation, model selection, and evaluation metrics in predictive modeling.
+| Model | R² Score | RMSE |
+|-------|----------|------|
+| Linear Regression | 1.0000 | 0.00 |
+| Polynomial Regression | 1.0000 | 0.00 |
+| Decision Tree | 0.9946 | 6.05 |
+| Random Forest | 0.9978 | 3.89 |
+
+⚠️ Limitation
+TNote: R² = 1.0 in Linear/Polynomial models indicates 
+possible data leakage due to high feature correlation. 
+This is acknowledged as a learning observation.his project provides a comparative study of different regression techniques on stock market data and highlights the importance of feature correlation, model selection, and evaluation metrics in predictive modeling.
